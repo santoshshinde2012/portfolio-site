@@ -3,4 +3,5 @@ typings
 */app/**/*.js
 */app/**/*.js.map
 *.log
+*.DS_Store
 .DS_Store
